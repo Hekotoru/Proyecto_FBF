@@ -1,1 +1,6 @@
 C:\Users\Hector\Documents\Visual Studio 2013\Projects\FBF_Proyect\Proyecto FBF\FBF_Proyect\bin\Debug\FBF_Proyect.exe.config
+C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\bin\Debug\FBF_Proyect.exe.config
+C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\bin\Debug\FBF_Proyect.exe
+C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\bin\Debug\FBF_Proyect.pdb
+C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\obj\Debug\FBF_Proyect.exe
+C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\obj\Debug\FBF_Proyect.pdb
