@@ -4,3 +4,4 @@ C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\bin\Debug\FBF_Proyect.exe
 C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\bin\Debug\FBF_Proyect.pdb
 C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\obj\Debug\FBF_Proyect.exe
 C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\obj\Debug\FBF_Proyect.pdb
+C:\Users\Hector\Documents\Proyecto_FBF\FBF_Proyect\obj\Debug\FBF_Proyect.csprojResolveAssemblyReference.cache

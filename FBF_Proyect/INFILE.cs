@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace FBF_Project.Infile_Module
+namespace FBF_Project
 {
     /// <summary>
     /// Clase encargada de leer y almacenar los caracteres del archivo de entrada

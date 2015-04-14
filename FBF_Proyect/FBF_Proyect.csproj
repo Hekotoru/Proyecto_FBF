@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Analyzer_Syntax\Analyzer_Syntax.cs" />
-    <Compile Include="InFile_Module\INFILE.cs" />
+    <Compile Include="INFILE.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tokenizer\Automata.cs" />
@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Analyzer_FBF\" />
+    <Folder Include="InFile_Module\" />
     <Folder Include="Printer\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

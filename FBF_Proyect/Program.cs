@@ -10,9 +10,8 @@ namespace FBF_Proyect
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             //intacia del objeto que maneja el llamado al archivo InputTXT
-            InFile_module.INFILE infile = new InFile_module.INFILE();
+            FBF_Project.INFILE infile = new FBF_Project.INFILE();
 
 
             System.Console.Write("NOMBRE DEL ARCHIVO DE ENTRADA: ");
