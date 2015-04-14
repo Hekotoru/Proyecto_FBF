@@ -10,6 +10,22 @@ namespace FBF_Proyect
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
+            //intacia del objeto que maneja el llamado al archivo InputTXT
+            InFile_module.INFILE infile = new InFile_module.INFILE();
+
+
+            System.Console.Write("NOMBRE DEL ARCHIVO DE ENTRADA: ");
+
+            string inputname = Console.ReadLine();
+
+            ///ESTO ES UNA PRUEBA PARA IMPRIMIR LA LISTA DE PROPOSICIONES
+            foreach (string value in infile.LoadFile(inputname.ToString()))
+            {
+                System.Console.WriteLine(value);
+            }
+
+            System.Console.ReadKey();
            /*Code to test the function AreParanthesesBalanced*/
             string expression;
             Analyzer_Syntax.Analyzer_Syntax Prueba = new Analyzer_Syntax.Analyzer_Syntax();
@@ -25,7 +41,6 @@ namespace FBF_Proyect
                 Console.WriteLine("Not Balanced\n");
                 Console.ReadKey();
             }
-
         }
     }
 }
